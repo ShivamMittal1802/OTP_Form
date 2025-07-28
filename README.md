@@ -1,6 +1,10 @@
 
 My main focus is only on the writing functionality and scalable code, I have not focus much on CSS.
-https://github.com/user-attachments/assets/f71d0cf3-12c9-4b40-a306-94233fd74051
+
+
+https://github.com/user-attachments/assets/ca6ff3bb-e37c-4a4b-ae9a-f37d6f8cbf3e
+
+
 
 # Getting Started with Create React App
 
