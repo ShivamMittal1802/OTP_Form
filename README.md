@@ -1,3 +1,7 @@
+
+My main focus is only on the writing functionality and scalable code, I have not focus much on CSS.
+https://github.com/user-attachments/assets/f71d0cf3-12c9-4b40-a306-94233fd74051
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
